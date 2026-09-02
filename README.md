@@ -18,7 +18,7 @@ This folder contains a complete static version of the Yerbería Santa Fe website
 - `styles.css` — layout and design
 - `script.js` — English/Spanish switching, fortunes, herb search, and library controls
 - `herbs.csv` — herb repository data
-- `assets/` — logo, storefront, saints image, and favicon
+- `yerberia-logo.png`, `storefront.png`, `saints-circle.png`, and `favicon.svg` — website images stored directly beside `index.html`
 - `.nojekyll` — GitHub Pages compatibility
 
 Keep the same filenames and folder structure so the images, styling, and herb library continue to work.
